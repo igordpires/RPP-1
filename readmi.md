@@ -6,6 +6,6 @@ Test 2 of synchronization
 
 and RStudio
 
-Folder test.
+Folder test1
 
 .
